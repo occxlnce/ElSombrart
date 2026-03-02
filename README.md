@@ -3,8 +3,6 @@
 
 A sophisticated portfolio website showcasing the work of El-Sombrart, featuring a cinematic 3D scroll experience with WebGL animations and modern web technologies.
 
-![El-Sombrart Portfolio](/og.jpg)
-
 ## 🎨 About
 
 El-Sombrart is an illustrator specializing in original artwork, character designs, and creative illustrations. This portfolio demonstrates advanced web development capabilities through immersive 3D experiences while maintaining a focus on artistic presentation.
@@ -34,7 +32,7 @@ El-Sombrart is an illustrator specializing in original artwork, character design
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/occxlnce/ElSombrart
 
 # Navigate to project directory
 cd sombrero
