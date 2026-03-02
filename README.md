@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # El-Sombrart - Illustrator Portfolio
 
 A sophisticated portfolio website showcasing the work of El-Sombrart, featuring a cinematic 3D scroll experience with WebGL animations and modern web technologies.
@@ -150,3 +151,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ---
 
 *Created with ❤️ by El-Sombrart*
+=======
+# ElSombrart
+A sophisticated portfolio website showcasing the work of El-Sombrart, featuring a cinematic 3D scroll experience with WebGL animations and modern web technologies.
+>>>>>>> 25d767cab474e5d26a9e6e8f0b0e71821d66c00c
